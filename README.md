@@ -1,6 +1,5 @@
 # DualPE
-Code for DualPE
-Example Commands
+
 Below are example commands for running run.py with different edit types.
 
 Deletion
